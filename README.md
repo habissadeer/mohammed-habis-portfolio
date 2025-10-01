@@ -18,17 +18,17 @@ Recent B.Tech graduate in Computer Science (CGPA 6.58) with hands-on experience 
 
 ## Projects
 - **Stock & Crypto Dashboard**: Django app with auth, yFinance/CoinGecko APIs, Chart.js charts, watchlist CRUD.  
-  Live: https://stock-crypto-dashboard-0zl4.onrender.com  
-  GitHub: https://github.com/habissadeer/stock-crypto-dashboard
+  Live: [Stock & Crypto Dashboard](https://stock-crypto-dashboard-0zl4.onrender.com)
+  GitHub: [Code](https://github.com/habissadeer/stock-crypto-dashboard)
 - **Expense Tracker**: Django-based personal finance app with user auth and data tracking.  
-  Live: https://habissadeer.pythonanywhere.com
-  GitHub: https://github.com/habissadeer/expense-tracker
+  Live: [expense tracker dashboard](https://habissadeer.pythonanywhere.com)
+  GitHub:[code](https://github.com/habissadeer/expense-tracker)
 - **Weather App**: Starter API app for real-time weather data.  
-  GitHub: https://github.com/habissadeer/weather-app
+  GitHub: [code](https://github.com/habissadeer/weather-app)
 - **Indian Sign Language Recognition**: CNN-based gesture recognition for hearing-impaired users.
 - **Mental Health Tracking System**: Django web app for mood tracking and analysis.
 - **JunuBullion.com**: Live WordPress site with dynamic pricing and WooCommerce.  
-  Live: www.junubullion.com
+  Live:[working](www.junubullion.com)
 
 ## Education & Certifications
 - B.Tech CSE, Younus College of Engineering (2020-2024, CGPA 6.58)
