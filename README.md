@@ -21,10 +21,10 @@ Recent B.Tech graduate in Computer Science (CGPA 6.58) with hands-on experience 
   Live: https://stock-crypto-dashboard-0zl4.onrender.com  
   GitHub: https://github.com/habissadeer/stock-crypto-dashboard
 - **Expense Tracker**: Django-based personal finance app with user auth and data tracking.  
-  Live: [Insert URL]  
-  GitHub: [Insert URL]
+  Live: https://habissadeer.pythonanywhere.com
+  GitHub: https://github.com/habissadeer/expense-tracker
 - **Weather App**: Starter API app for real-time weather data.  
-  GitHub: [Insert URL]
+  GitHub: https://github.com/habissadeer/weather-app
 - **Indian Sign Language Recognition**: CNN-based gesture recognition for hearing-impaired users.
 - **Mental Health Tracking System**: Django web app for mood tracking and analysis.
 - **JunuBullion.com**: Live WordPress site with dynamic pricing and WooCommerce.  
