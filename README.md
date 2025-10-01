@@ -28,7 +28,7 @@ Recent B.Tech graduate in Computer Science (CGPA 6.58) with hands-on experience 
 - **Indian Sign Language Recognition**: CNN-based gesture recognition for hearing-impaired users.
 - **Mental Health Tracking System**: Django web app for mood tracking and analysis.
 - **JunuBullion.com**: Live WordPress site with dynamic pricing and WooCommerce.  
-  Live:[working](www.junubullion.com)
+  Live:[live_site](https://junubullion.com/?doing_wp_cron=1754894263.4921040534973144531250)
 
 ## Education & Certifications
 - B.Tech CSE, Younus College of Engineering (2020-2024, CGPA 6.58)
