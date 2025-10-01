@@ -1,6 +1,6 @@
 # Mohammed Habis - Python Full Stack Developer
 
-Welcome to my portfolio! [Your photo or avatar if you have one]
+Welcome to my portfolio
 
 ## About Me
 Recent B.Tech graduate in Computer Science (CGPA 6.58) with hands-on experience in Python full-stack development. Certified in Python Full Stack from Quest Innovative Solutions. Passionate about AI/ML, web apps, and problem-solving.
